@@ -11,7 +11,7 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 3. Download the entire repository as a .zip file & extract it to its own folder by using your extraction software by clicking on and then right clicking on the .zip file & clicking extract
 4. In the directory of the folder run this command in command terminal: `pip install requests`
 7. In the directory of the folder run this command in command terminal: `python main.py`
-8. Then paste in your "Session Cookie", I've showed [how to get it below](##how-to-get-userid)
+8. Then paste in your "Session Cookie", I've showed [how to get it below]()
 
 # How To Get Session Cookie
 1. Go to https://myaddys.com
