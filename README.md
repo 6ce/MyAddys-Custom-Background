@@ -17,7 +17,7 @@ Your Image URL must be from the domain "i.imgur.com"
 9. Then paste in your "Image URL", I've shown [how to get it below](#how-to-get-image-url)
 
 # How To Get Session Cookie
-1. Go to https://myaddys.com
+1. Go to https://myaddys.net
 2. Create an account if you haven't already
 3. Open developer tools/inspect element
 4. Find the application tab at the top of that (if it isn't any of the tabs already showing, click on the arrows next to those and find it there)
