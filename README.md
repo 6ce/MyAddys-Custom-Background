@@ -16,4 +16,10 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 # How To Get Session Cookie
 1. Go to https://myaddys.com
 2. Create an account if you haven't already
-3. 
+3. Open developer tools/inspect element
+4. Find the application tab at the top of that (if it isn't any of the tabs already showing, click on the arrows next to those and find it there)
+5. Then in that, find "Cookies" and expand that, then click on the first element
+6. Find the cookie "Secure-next-auth.session-token" and copy it's value
+7. You now have the session cookie
+
+# How To Get Image Url
