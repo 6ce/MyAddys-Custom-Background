@@ -3,7 +3,7 @@ Allows you to have a custom background on https://myaddys.com
 
 # Usage
 
-Once it's running, it'll ask your for your "Session Cookie", once that's input it'll, ask for a link to your image (must be i.imgur.com) and once thats input, it will set your background to whatever image you inputted
+Once it's running, it'll ask your for your "Session Cookie", once that's input it'll, ask for an "Image URL" and once thats input, it will set your background to whatever image you inputted
 
 # Setup
 1. Install python if you haven't already (https://www.python.org/)
@@ -11,7 +11,8 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 3. Download the entire repository as a .zip file & extract it to its own folder by using your extraction software by clicking on and then right clicking on the .zip file & clicking extract
 4. In the directory of the folder run this command in command terminal: `pip install requests`
 7. In the directory of the folder run this command in command terminal: `python main.py`
-8. Then paste in your "Session Cookie", I've showed [how to get it below]()
+8. Then paste in your "Session Cookie", I've showed [how to get it below](#how-to-get-session-cookie)
+9. Then paste in your "Image URL", I've showed [how to get it below](#how-to-get-image-url)
 
 # How To Get Session Cookie
 1. Go to https://myaddys.com
@@ -22,4 +23,9 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 6. Find the cookie "Secure-next-auth.session-token" and copy it's value
 7. You now have the session cookie
 
-# How To Get Image Url
+# How To Get Image URL
+1. Go to https://imgur.com
+2. At the top left, click on "New post"
+3. Upload any image, URL or Uploaded File works
+4. Once that's done, right click the image and click "copy image address"
+5. You now have the Image URL
