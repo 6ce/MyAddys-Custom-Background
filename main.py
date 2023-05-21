@@ -2,13 +2,15 @@ import requests as Requests
 
 print("Input your session cookie below:")
 Session = str(input("\n"))
+print("\nInput your image url below:")
+Image = str(input("\n"))
 
 Cookies = {
 	"__Secure-next-auth.session-token": Session
 }
 
 Payload = {
-	"backgroundData": "https://i.imgur.com/qQTROq9.jpg"
+	"backgroundData": Image
 }
 
 Headers = {
