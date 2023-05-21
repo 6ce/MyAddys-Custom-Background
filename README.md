@@ -14,7 +14,6 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 8. Then paste in your "Session Cookie", I've showed [how to get it below](##how-to-get-userid)
 
 # How To Get Session Cookie
-1. Go to their profile
-2. Click on the link at the top of your browser
-3. after "/users/" in the URL, there will be a set of numbers, just copy that
-4. You now have the ID
+1. Go to https://myaddys.com
+2. Create an account if you haven't already
+3. 
