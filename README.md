@@ -3,7 +3,7 @@ Allows you to have a custom background on https://myaddys.com
 
 # Usage
 
-Once it's running, it'll ask your for your "Session Cookie", once that's input it'll, ask for an "Image URL" and once thats input, it will set your background to whatever image you inputted
+Once it's running, it'll ask your for your "Session Cookie", once that's input it'll, ask for an "Image URL" and once thats input, it will set your background to whatever image you input
 
 # Setup
 1. Install python if you haven't already (https://www.python.org/)
