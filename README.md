@@ -29,3 +29,6 @@ Once it's running, it'll ask your for your "Session Cookie", once that's input i
 3. Upload any image, URL or Uploaded File works
 4. Once that's done, right click the image and click "copy image address"
 5. You now have the Image URL
+
+# Disclaimer
+Not every image will scale perfectly, that will be up to you to correct
