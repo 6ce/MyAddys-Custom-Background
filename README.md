@@ -34,7 +34,7 @@ Your Image URL must be from the domain "i.imgur.com"
 
 # POC
 
-https://myaddys.net/u
+Just look at my "myaddys" profile: https://myaddys.net/u
 
 # Disclaimer
 Not every image will scale perfectly, that will be up to you to correct
