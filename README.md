@@ -32,5 +32,9 @@ Your Image URL must be from the domain "i.imgur.com"
 4. Once that's done, right click the image and click "copy image address"
 5. You now have the Image URL
 
+# POC
+
+https://myaddys.net/u
+
 # Disclaimer
 Not every image will scale perfectly, that will be up to you to correct
